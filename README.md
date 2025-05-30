@@ -1,0 +1,1 @@
+this is a story generator with python. the way it works is by prompting the user to fill in adjectives to describe something and then use the inputs to generate a story. I stumbled across this project when i was learning back_end developing with ALX and thought it was a fun excersise.
